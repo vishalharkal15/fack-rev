@@ -30,7 +30,7 @@ An advanced AI-powered system for detecting and analyzing the authenticity of re
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/review-authenticity-analyzer.git
+   git clone https://github.com/maneomkar369/fake-review-detection.git
    cd review-authenticity-analyzer
    ```
 
