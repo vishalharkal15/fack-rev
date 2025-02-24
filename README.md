@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 CYBRON Team - vishalharkal@dietms.org
 
-Project Link: [https://github.com/maneomkar.369/fake-review-detection](https://github.com/maneomkar.369/fake-review-detection)
+Project Link: [https://github.com/maneomkar369/fake-review-detection](https://github.com/maneomkar369/fake-review-detection)
 
 ---
 
