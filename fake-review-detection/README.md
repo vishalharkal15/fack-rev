@@ -185,7 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-CYBRON Team - cybron@example.com
+CYBRON Team - vishalharkal@dietms.org
 
 Project Link: [https://github.com/maneomkar.369/review-authenticity-analyzer](https://github.com/maneomkar.369/review-authenticity-analyzer)
 
