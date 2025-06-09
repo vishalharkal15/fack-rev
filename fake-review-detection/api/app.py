@@ -1,7 +1,7 @@
 """
 CYBRON - AI-Powered Review Authenticity Analyzer
 Advanced machine learning system for detecting genuine reviews
-Made with ♥ by Jarvis
+Made with ♥ by Cybron
 """
 
 from flask import Flask, request, jsonify
